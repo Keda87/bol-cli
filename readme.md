@@ -4,11 +4,10 @@ In case you are too lazy open your browser.
 
 # Prerequisite:
 
-- Python v2.7 (Not tested yet for python 3)
-- [PhantomJS](http://phantomjs.org/)
+- Python 3
 
 # Installation:
-`$ pip install -r requirements.txt`
+`$ pipenv install`
 
 # Usage:
 `$ python app.py -u your@email.com -p`
